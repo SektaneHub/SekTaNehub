@@ -1,46 +1,40 @@
-<!--
-╔════════════════════════════════════════════════════════════╗
-║                    SEKТANEHUB PROFILE                     ║
-║                  Anime • Code • Gaming                    ║
-╚════════════════════════════════════════════════════════════╝
--->
+<!-- ========================================================= -->
+
+<!--                    SEKТANEHUB PROFILE                     -->
+
+<!--              Anime • Dark Purple • Gaming                -->
+
+<!-- ========================================================= -->
 
 <!-- ==================== HEADER ==================== -->
 
 <div align="center">
 
-<a href="https://github.com/SektaneHub">
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=SEKТANE&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=twinkling&color=gradient"
+width="100%"
+alt="SekTaNe Header"
+/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=%3C%2F%F0%9D%93%A2%F0%9.%%%F0%9D%93%B4%F0%9D%93%A3%F0%9D%93%A6%F0%9D%93%A1%3E&fontSize=55&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Stay%20Silent.%20Keep%20Grinding.&descAlignY=62&descSize=20&color=gradient"/>
+<br>
 
-</a>
+<img
+src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=750&lines=Welcome+to+SektaneHub;Stay+Silent.+Keep+Grinding.;Anime+%E2%80%A2+Code+%E2%80%A2+Gaming;Building+in+silence.;Level+up+every+day."
+alt="Typing"
+/>
 
 </div>
+
+<br>
 
 <!-- ==================== ANIME GIF ==================== -->
 
 <div align="center">
 
 <img
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2F6dHh6Y2d4MmR3Zjd6czBxNTh2aGR1aWJqejN1ZnV5ZHQ3d2tqdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HBDT4QSTpveU/giphy.gif"
+src="https://raw.githubusercontent.com/Durgesh4993/Durgesh4993/master/assets/assassin.gif"
 width="720"
-alt="anime animation"
-/>
-
-</div>
-
-<br><br>
-
-<!-- ==================== TITLE ==================== -->
-
-<div align="center">
-
-# `</𝓢𝓮𝓴𝓣𝓪𝓝𝓮>`
-
-### ⚡ Developer • Gamer • Anime Enjoyer
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=700&lines=Welcome+to+SektaneHub;Stay+Silent.+Keep+Grinding.;Anime+%E2%80%A2+Code+%E2%80%A2+Gaming;Building+things+my+way;No+noise.+Just+progress."
+alt="Anime GIF"
 />
 
 </div>
@@ -51,66 +45,62 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=2
 
 <div align="center">
 
+<a href="https://github.com/SektaneHub">
+<img src="https://img.shields.io/badge/GitHub-SektaneHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 <a href="https://www.youtube.com/@SekTaNe_yt">
-<img src="https://img.shields.io/badge/YouTube-SekTaNe__yt-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-SekTaNe__yt-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
 <a href="https://www.instagram.com/me_you_thatwhy">
-<img src="https://img.shields.io/badge/Instagram-me__you__thatwhy-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-me__you__thatwhy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="https://steamcommunity.com/id/mrsektane">
-<img src="https://img.shields.io/badge/Steam-MrSekTaNe-171A21?style=for-the-badge&logo=steam&logoColor=white"/>
+<img src="https://img.shields.io/badge/Steam-MrSekTaNe-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
 </a>
 
 <a href="https://x.com/mrsektane">
-<img src="https://img.shields.io/badge/X-@mrsektane-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SektaneHub">
-<img src="https://img.shields.io/badge/GitHub-SektaneHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-@mrsektane-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 
 </div>
 
 <br><br>
 
-<!-- ==================== ABOUT ==================== -->
+<!-- ==================== INTRO ==================== -->
 
 <div align="center">
 
-## 🗡️ About Me
+# `</𝓢𝓮𝓴𝓣𝓪𝓝𝓮>`
+
+### ⚡ Developer • Gamer • Anime Enjoyer
 
 </div>
 
-<table align="center">
+<br>
 
+<!-- ==================== ABOUT ==================== -->
+
+<table align="center">
 <tr>
 
 <td width="55%">
 
-```yaml
-Name: SekTaNe
-GitHub: SektaneHub
-
-Role:
-  - Developer
-  - Gamer
-  - Anime Enthusiast
-
-Interests:
-  - Web Development
-  - Python
-  - Discord
-  - Gaming
-  - Anime
-  - GitHub Customization
-
-Mindset:
-  - Stay Silent
-  - Keep Grinding
-  - Build
-  - Improve
+```text
+╔══════════════════════════════════════╗
+║              SEKＴANE                ║
+╠══════════════════════════════════════╣
+║ 🎌 Anime / Manga / Manhua            ║
+║ 💻 Coding & Web                      ║
+║ 🎮 Gaming                            ║
+║ 🤖 Discord Projects                  ║
+║ 🐍 Python                            ║
+║ ⚡ Learning & Building               ║
+║                                      ║
+║ "Stay Silent. Keep Grinding."        ║
+╚══════════════════════════════════════╝
 ```
 
 </td>
@@ -118,20 +108,91 @@ Mindset:
 <td width="45%" align="center">
 
 <img
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxqOGh1aW1xZGNlYzM3M3A1Y3pxOWR6Z2Y3Y2M4Y3o2N2Y4N3N5NiZjdD1n/GYtblmdLnemlE3sV5N/giphy.gif"
-width="300"
-alt="anime character"
+src="https://raw.githubusercontent.com/Durgesh4993/Durgesh4993/master/assets/anime.gif"
+width="320"
+alt="Anime"
 />
 
 </td>
 
 </tr>
-
 </table>
 
 <br><br>
 
-<!-- ==================== TECH ==================== -->
+<!-- ========================================================= -->
+
+<!--                       ANIME VIDEO                         -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 🎬 Anime Video
+
+<br>
+
+<a href="https://www.youtube.com/@SekTaNe_yt">
+
+<img
+src="https://dummyimage.com/900x500/12001f/bb86fc.png&text=%E2%96%B6+WATCH+ANIME+VIDEO"
+width="80%"
+alt="Watch Anime Video"
+/>
+
+</a>
+
+<br><br>
+
+### ▶️ Click the image to watch
+
+</div>
+
+<br>
+
+<!-- ==================== ANIME BANNER ==================== -->
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&height=100&text=ANIME%20%2F%20MANGA%20%2F%20MANHUA&fontSize=32&fontColor=ffffff&animation=fadeIn&color=8A2BE2"
+width="90%"
+alt="Anime"
+/>
+
+<br><br>
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+<h2>⚔️</h2>
+<b>Murim</b>
+</td>
+
+<td align="center" width="25%">
+<h2>🔥</h2>
+<b>OP MC</b>
+</td>
+
+<td align="center" width="25%">
+<h2>🌑</h2>
+<b>Dark Fantasy</b>
+</td>
+
+<td align="center" width="25%">
+<h2>👁️</h2>
+<b>Hidden Power</b>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br><br>
+
+<!-- ==================== SKILLS ==================== -->
 
 <div align="center">
 
@@ -139,43 +200,17 @@ alt="anime character"
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,c,cpp,bash,git,github,vscode"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=discord,nodejs,mysql,sqlite,linux,windows,figma,photoshop"/>
-
-</div>
-
-<br><br>
-
-<!-- ==================== ANIME ==================== -->
-
-<div align="center">
-
-## ⛩️ Anime Side
-
-<br>
-
 <img
-src="https://capsule-render.vercel.app/api?type=rect&height=110&text=ANIME%20%2F%20MANGA%20%2F%20MANHUA&fontSize=32&fontColor=ffffff&animation=fadeIn&color=gradient"
+src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,c,php,bash,git,github,vscode"
+alt="Programming Skills"
 />
 
 <br><br>
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║             🎌  Anime • Manga • Manhua              ║
-║                                                      ║
-║             ⚔️  Murim • OP MC • Cultivation         ║
-║                                                      ║
-║             🌑  Dark Fantasy • Hidden Power         ║
-║                                                      ║
-║             🔥  Gaming • Coding • Web               ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+<img
+src="https://skillicons.dev/icons?i=nodejs,discord,mysql,sqlite,linux,windows,figma"
+alt="Tools"
+/>
 
 </div>
 
@@ -189,41 +224,48 @@ src="https://capsule-render.vercel.app/api?type=rect&height=110&text=ANIME%20%2F
 
 <br>
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=SektaneHub&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF"
-width="49%"
-alt="GitHub stats"
-/>
+<a href="https://github.com/SektaneHub">
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SektaneHub&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=BB86FC&text_color=FFFFFF"
-width="41%"
-alt="Top languages"
+src="https://github-readme-stats.vercel.app/api?username=SektaneHub&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF"
+height="180"
+alt="GitHub Stats"
 />
+
+</a>
+
+<a href="https://github.com/SektaneHub">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SektaneHub&layout=compact&hide_border=true&theme=transparent&title_color=BB86FC&text_color=FFFFFF"
+height="180"
+alt="Top Languages"
+/>
+
+</a>
 
 <br><br>
 
 <img
-src="https://streak-stats.demolab.com?user=SektaneHub&theme=transparent&hide_border=true&background=00000000&stroke=BB86FC&ring=BB86FC&fire=FFB300&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA"
+src="https://streak-stats.demolab.com?user=SektaneHub&theme=transparent&hide_border=true&background=00000000&stroke=BB86FC&ring=BB86FC&fire=BB86FC&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
 width="70%"
-alt="GitHub streak"
+alt="GitHub Streak"
 />
 
 </div>
 
 <br><br>
 
-<!-- ==================== CONTRIBUTIONS ==================== -->
+<!-- ==================== TROPHIES ==================== -->
 
 <div align="center">
 
-## 🐍 Contribution Snake
-
-<br>
+## 🏆 GitHub Trophies
 
 <img
-src="https://raw.githubusercontent.com/SektaneHub/SektaneHub/output/github-contribution-grid-snake-dark.svg"
-alt="Contribution Snake"
+src="https://github-profile-trophy.vercel.app/?username=SektaneHub&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"
+width="90%"
+alt="GitHub Trophies"
 />
 
 </div>
@@ -236,12 +278,10 @@ alt="Contribution Snake"
 
 ## 📈 Activity Graph
 
-<br>
-
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=SektaneHub&bg_color=00000000&color=BB86FC&line=BB86FC&point=FFFFFF&area=true&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=SektaneHub&bg_color=00000000&color=BB86FC&line=BB86FC&point=FFFFFF&area=true&hide_border=true&custom_title=SekTaNe%20Activity"
 width="95%"
-alt="GitHub activity graph"
+alt="Activity Graph"
 />
 
 </div>
@@ -252,7 +292,7 @@ alt="GitHub activity graph"
 
 <div align="center">
 
-## 💻 My Projects
+## 💻 Featured Projects
 
 </div>
 
@@ -262,13 +302,11 @@ alt="GitHub activity graph"
 
 <td width="50%" align="center">
 
-### 🌐 SekTaNe
-
 <a href="https://github.com/SektaneHub/sektane">
 
 <img
-src="https://github-readme-stats.vercel.app/api/pin/?username=SektaneHub&repo=sektane&theme=transparent&bg_color=00000000&hide_border=true&title_color=BB86FC&text_color=FFFFFF&icon_color=BB86FC"
-alt="sektane repository"
+src="https://github-readme-stats.vercel.app/api/pin/?username=SektaneHub&repo=sektane&theme=transparent&hide_border=true&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF"
+alt="Sektane"
 />
 
 </a>
@@ -277,13 +315,11 @@ alt="sektane repository"
 
 <td width="50%" align="center">
 
-### 🧾 Register
-
 <a href="https://github.com/SektaneHub/register">
 
 <img
-src="https://github-readme-stats.vercel.app/api/pin/?username=SektaneHub&repo=register&theme=transparent&bg_color=00000000&hide_border=true&title_color=BB86FC&text_color=FFFFFF&icon_color=BB86FC"
-alt="register repository"
+src="https://github-readme-stats.vercel.app/api/pin/?username=SektaneHub&repo=register&theme=transparent&hide_border=true&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF"
+alt="Register"
 />
 
 </a>
@@ -296,13 +332,11 @@ alt="register repository"
 
 <td width="50%" align="center">
 
-### 🎮 MrSekTaNe
-
 <a href="https://github.com/SektaneHub/mrsektane">
 
 <img
-src="https://github-readme-stats.vercel.app/api/pin/?username=SektaneHub&repo=mrsektane&theme=transparent&bg_color=00000000&hide_border=true&title_color=BB86FC&text_color=FFFFFF&icon_color=BB86FC"
-alt="mrsektane repository"
+src="https://github-readme-stats.vercel.app/api/pin/?username=SektaneHub&repo=mrsektane&theme=transparent&hide_border=true&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF"
+alt="MrSekTaNe"
 />
 
 </a>
@@ -311,16 +345,14 @@ alt="mrsektane repository"
 
 <td width="50%" align="center">
 
-### 🔥 More Projects
-
 ```text
-╔══════════════════════╗
-║                      ║
-║    🚧 COMING SOON    ║
-║                      ║
-║   New projects...    ║
-║                      ║
-╚══════════════════════╝
+╔══════════════════════════╗
+║                          ║
+║     🔮 SECRET PROJECT    ║
+║                          ║
+║       IN PROGRESS        ║
+║                          ║
+╚══════════════════════════╝
 ```
 
 </td>
@@ -331,17 +363,53 @@ alt="mrsektane repository"
 
 <br><br>
 
-<!-- ==================== QUOTE ==================== -->
+<!-- ==================== ANIME GIF WALL ==================== -->
 
 <div align="center">
 
-## 🩸 Quote
-
-<br>
+## 🌌 Anime Zone
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=4000&pause=1000&color=BB86FC&center=true&vCenter=true&width=850&lines=Stay+Silent.+Keep+Grinding.;No+noise.+Just+progress.;Level+up+in+silence."
-alt="quote"
+src="https://raw.githubusercontent.com/Durgesh4993/Durgesh4993/master/assets/assassin.gif"
+width="45%"
+alt="Anime"
+/>
+
+<img
+src="https://raw.githubusercontent.com/Durgesh4993/Durgesh4993/master/assets/anime.gif"
+width="45%"
+alt="Anime"
+/>
+
+</div>
+
+<br><br>
+
+<!-- ==================== SNAKE ==================== -->
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img
+src="https://raw.githubusercontent.com/SektaneHub/SektaneHub/output/github-contribution-grid-snake-dark.svg"
+width="95%"
+alt="Contribution Snake"
+/>
+
+</div>
+
+<br><br>
+
+<!-- ==================== MINDSET ==================== -->
+
+<div align="center">
+
+## 🩸 Mindset
+
+<img
+src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=23&duration=3500&pause=1000&color=BB86FC&center=true&vCenter=true&width=850&lines=Stay+Silent.+Keep+Grinding.;No+noise.+Just+progress.;Work+in+silence.;Let+the+results+talk."
+alt="Mindset"
 />
 
 </div>
@@ -353,8 +421,8 @@ alt="quote"
 <div align="center">
 
 <img
-src="https://komarev.com/ghpvc/?username=SektaneHub&label=PROFILE+VIEWS&color=7E57C2&style=for-the-badge"
-alt="Profile views"
+src="https://komarev.com/ghpvc/?username=SektaneHub&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge"
+alt="Profile Views"
 />
 
 </div>
@@ -366,7 +434,10 @@ alt="Profile views"
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&animation=twinkling"
+src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=8A2BE2&animation=twinkling"
+width="100%"
+alt="Footer"
 />
 
 </div>
+
