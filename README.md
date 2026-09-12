@@ -1,33 +1,83 @@
-<!-- ========================================================= -->
+<!--
+=============================================================
+                    S E K T A N E
+             Anime • Dark • Gaming • Code
+=============================================================
+-->
 
-<!--                    SEKТANEHUB PROFILE                     -->
-
-<!--            ANIME • DARK • MALE • GAMING                  -->
-
-<!-- ========================================================= -->
+<!-- ========================= HEADER ========================= -->
 
 <div align="center">
 
-<img src="./assets/anime-main.gif" width="700" alt="SekTaNe Anime"/>
+<br>
 
-<br><br>
-
-# `</𝓢𝓮𝓴𝓣𝓪𝓝𝓮>`
-
-### ⚔️ Developer • Gamer • Anime Enjoyer
+<h1>⚔️ Welcome to my little corner ⚔️</h1>
 
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Welcome+to+SektaneHub;Stay+Silent.+Keep+Grinding.;Anime+%E2%80%A2+Gaming+%E2%80%A2+Coding;Building+in+silence.;No+noise.+Just+progress."
+src="https://i.pinimg.com/originals/16/8a/bc/168abcdc633cff551c0d66da98a37a39.gif"
+width="420"
+alt="Anime GIF"
+/>
+
+<br><br>
+
+<h2>╰┈➤ <code>&lt;/𝓢𝓮𝓴𝓣𝓪𝓝𝓮&gt;</code></h2>
+
+<br>
+
+<img
+src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Welcome+to+SektaneHub;Stay+Silent.+Keep+Grinding.;Anime+%E2%80%A2+Gaming+%E2%80%A2+Coding;No+noise.+Just+progress.;Build.+Break.+Learn.+Repeat."
 alt="Typing"
 />
+
+<br><br>
+
+</div>
+
+---
+
+<!-- ========================= ABOUT ========================= -->
+
+<div align="center">
+
+## 🩸 About Me
+
+</div>
+
+<p align="center">
+
+A developer from Morocco who enjoys <strong>Anime • Manga • Manhua • Gaming • Coding • Discord</strong>
+
+</p>
+
+<br>
+
+<div align="center">
+
+```text
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║                  S E K T A N E                     ║
+║                                                    ║
+║   🎌 Anime / Manga / Manhua                        ║
+║   ⚔️ Murim / OP MC / Dark Fantasy                  ║
+║   🎮 Gaming                                        ║
+║   💻 Coding                                        ║
+║   🤖 Discord Projects                              ║
+║   🌌 Web Projects                                   ║
+║                                                    ║
+║   "Stay Silent. Keep Grinding."                    ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
 
 </div>
 
 <br><br>
 
-<!-- ===================== SOCIALS ===================== -->
+<!-- ========================= SOCIALS ========================= -->
 
 <div align="center">
 
@@ -55,92 +105,45 @@ alt="Typing"
 
 <br><br>
 
-<!-- ===================== ABOUT ===================== -->
+<!-- ========================= DIVIDER ========================= -->
 
 <div align="center">
 
-## 🩸 About Me
-
-</div>
-
-<table align="center">
-<tr>
-
-<td width="58%">
-
-### `</𝓢𝓮𝓴𝓣𝓪𝓝𝓮>`
-
-```text
-╔══════════════════════════════════════╗
-║                                      ║
-║              SEKＴANE                ║
-║                                      ║
-║   🎌 Anime / Manga / Manhua          ║
-║   ⚔️ Murim / OP MC / Dark Fantasy    ║
-║   🎮 Gaming                           ║
-║   💻 Coding                           ║
-║   🤖 Discord Projects                 ║
-║   🌌 Web & Creative Projects          ║
-║                                      ║
-║   "Stay Silent. Keep Grinding."      ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
-
-</td>
-
-<td width="42%" align="center">
-
-<img src="./assets/anime-side.gif" width="320" alt="Anime Side"/>
-
-</td>
-
-</tr>
-</table>
-
-<br><br>
-
-<!-- ===================== DIVIDER ===================== -->
-
-<div align="center">
-
-<img src="./assets/anime-divider.gif" width="100%" alt="Anime Divider"/>
+<img
+src="https://i.pinimg.com/originals/0f/ca/0c/0fca0c5c79d71d39112b4936992a0676.gif"
+width="100%"
+alt="Anime Divider"
+/>
 
 </div>
 
 <br><br>
 
-<!-- ===================== ANIME VIDEO ===================== -->
+<!-- ========================= ANIME ========================= -->
 
 <div align="center">
 
-## 🎬 Anime Video
+## 🌑 Anime Side
 
 <br>
 
-<a href="https://www.youtube.com/@SekTaNe_yt">
-
-<img src="./assets/anime-video.png" width="800" alt="Watch Anime Video"/>
-
-</a>
-
-<br><br>
-
-### ▶️ Click the image to watch
+<img
+src="https://i.pinimg.com/originals/16/8a/bc/168abcdc633cff551c0d66da98a37a39.gif"
+width="650"
+alt="Anime"
+/>
 
 </div>
 
 <br><br>
 
-<!-- ===================== ANIME WORLD ===================== -->
+<!-- ========================= ANIME INTERESTS ========================= -->
 
 <div align="center">
 
-## 🌑 Anime World
+## ⛩️ Anime Realm
 
-<br>
-
-<table align="center">
+<table>
 <tr>
 
 <td align="center" width="25%">
@@ -166,107 +169,69 @@ alt="Typing"
 </tr>
 </table>
 
-</div>
-
-<br><br>
-
-<!-- ===================== SKILLS ===================== -->
-
-<div align="center">
-
-## ⚙️ Tech Arsenal
-
 <br>
 
-<img
-src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,c,bash,git,github,vscode"
-alt="Programming Skills"
-/>
-
-<br><br>
-
-<img
-src="https://skillicons.dev/icons?i=nodejs,mysql,sqlite,linux,windows,discord,figma"
-alt="Tools"
-/>
-
-</div>
-
-<br><br>
-
-<!-- ===================== CURRENT PATH ===================== -->
-
-<div align="center">
-
-## 🧠 Current Path
-
 ```text
-Coding          █████████████████░░░  85%
-Gaming          ███████████████░░░░░  75%
-Anime           ████████████████████ 100%
-Learning        ████████████████░░░░  80%
-Sleep           █████░░░░░░░░░░░░░░░  25%
+Anime      ████████████████████  100%
+Gaming     █████████████████░░░   85%
+Coding     ████████████████░░░░   80%
+Learning   ███████████████░░░░░   75%
+Sleep      █████░░░░░░░░░░░░░░░   25%
 ```
 
 </div>
 
 <br><br>
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ========================= SKILLS ========================= -->
 
 <div align="center">
 
-## 📊 GitHub Statistics
+## ⚙️ My Tech Skill Tree
 
 <br>
 
-<a href="https://github.com/SektaneHub">
-<img
-src="https://github-readme-stats.vercel.app/api?username=SektaneHub&show_icons=true&hide_border=true&theme=transparent&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF"
-height="180"
-alt="GitHub Stats"
-/>
-</a>
+### ⚔️ Main Weapons
 
-<a href="https://github.com/SektaneHub">
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SektaneHub&layout=compact&hide_border=true&theme=transparent&title_color=9D4EDD&text_color=FFFFFF"
-height="180"
-alt="Top Languages"
-/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,java,cpp,c,bash,git,github,vscode" alt="Programming Languages"/>
 
 <br><br>
 
-<img
-src="https://streak-stats.demolab.com?user=SektaneHub&theme=transparent&hide_border=true&background=00000000&stroke=9D4EDD&ring=9D4EDD&fire=9D4EDD&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
-width="70%"
-alt="GitHub Streak"
-/>
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,sqlite,linux,windows,discord,figma" alt="Tools"/>
 
 </div>
 
 <br><br>
 
-<!-- ===================== TROPHIES ===================== -->
+<!-- ========================= VIDEO ========================= -->
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+## 🎬 Anime Video
 
 <br>
 
+<a href="https://www.youtube.com/@SekTaNe_yt">
+
 <img
-src="https://github-profile-trophy.vercel.app/?username=SektaneHub&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"
-width="95%"
-alt="GitHub Trophies"
+src="https://dummyimage.com/1000x500/100010/9d4edd.png&text=%E2%96%B6+SEKТANE+ANIME+VIDEO"
+width="850"
+alt="Anime Video"
 />
+
+</a>
+
+<br><br>
+
+<strong>▶️ Click the image to watch</strong>
 
 </div>
 
 <br><br>
 
-<!-- ===================== DISCORD ===================== -->
+<!-- ========================= DISCORD ========================= -->
 
 <div align="center">
 
@@ -276,27 +241,10 @@ alt="GitHub Trophies"
 
 <a href="https://discord.com/">
 
-<img src="./assets/discord.png" width="650" alt="SekTaNe Discord"/>
-
-</a>
-
-</div>
-
-<br><br>
-
-<!-- ===================== PROJECT ===================== -->
-
-<div align="center">
-
-## 💻 Featured Project
-
-<br>
-
-<a href="https://github.com/SektaneHub/mrsektane">
-
 <img
-src="https://github-readme-stats.vercel.app/api/pin/?username=SektaneHub&repo=mrsektane&theme=transparent&hide_border=true&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF"
-alt="MrSekTaNe Project"
+src="https://i.ibb.co/k244D4C9/profiledsc.png"
+width="650"
+alt="My Discord Profile"
 />
 
 </a>
@@ -305,41 +253,163 @@ alt="MrSekTaNe Project"
 
 <br><br>
 
-<!-- ===================== ACTIVITY ===================== -->
+<!-- ========================= GITHUB STATS ========================= -->
 
 <div align="center">
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
+
+<br>
+
+<a href="https://github.com/SektaneHub">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=SektaneHub&show_icons=true&theme=radical&hide_border=true"
+height="180"
+alt="GitHub Stats"
+/>
+
+</a>
+
+<a href="https://github.com/SektaneHub">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SektaneHub&layout=compact&theme=radical&hide_border=true"
+height="180"
+alt="Top Languages"
+/>
+
+</a>
+
+<br><br>
+
+<img
+src="https://streak-stats.demolab.com?user=SektaneHub&theme=radical&hide_border=true"
+width="70%"
+alt="GitHub Streak"
+/>
+
+</div>
+
+<br><br>
+
+<!-- ========================= TROPHIES ========================= -->
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<br>
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=SektaneHub&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=6"
+width="95%"
+alt="GitHub Trophies"
+/>
+
+</div>
+
+<br><br>
+
+<!-- ========================= ACTIVITY ========================= -->
+
+<div align="center">
+
+## 📈 Activity
 
 <br>
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=SektaneHub&bg_color=00000000&color=9D4EDD&line=9D4EDD&point=FFFFFF&area=true&hide_border=true&custom_title=SekTaNe%20Activity"
 width="95%"
-alt="GitHub Activity Graph"
+alt="GitHub Activity"
 />
 
 </div>
 
 <br><br>
 
-<!-- ===================== ANIME ZONE ===================== -->
+<!-- ========================= PROJECTS ========================= -->
 
 <div align="center">
 
-## 🌌 Anime Zone
+## 💻 My Projects
 
 <br>
 
-<img src="./assets/anime-main.gif" width="45%" alt="Anime Main"/>
+<a href="https://github.com/SektaneHub/mrsektane">
 
-<img src="./assets/anime-side.gif" width="45%" alt="Anime Side"/>
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=SektaneHub&repo=mrsektane&theme=radical&hide_border=true"
+alt="mrsektane"
+/>
+
+</a>
 
 </div>
 
 <br><br>
 
-<!-- ===================== SNAKE ===================== -->
+<!-- ========================= PROJECT TABLE ========================= -->
+
+<table align="center">
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🌐 `mrsektane`
+
+<a href="https://github.com/SektaneHub/mrsektane">
+
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=SektaneHub&repo=mrsektane&theme=radical&hide_border=true"
+alt="mrsektane"
+/>
+
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🔮 Future Project
+
+```text
+╔══════════════════════════════╗
+║                              ║
+║        🔒  LOCKED            ║
+║                              ║
+║      SECRET PROJECT          ║
+║                              ║
+║      ACCESS DENIED           ║
+║                              ║
+╚══════════════════════════════╝
+```
+
+</td>
+
+</tr>
+
+</table>
+
+<br><br>
+
+<!-- ========================= ANIME IMAGE ========================= -->
+
+<div align="center">
+
+<img
+src="https://i.pinimg.com/originals/0f/ca/0c/0fca0c5c79d71d39112b4936992a0676.gif"
+width="100%"
+alt="Anime Sparkle Divider"
+/>
+
+</div>
+
+<br><br>
+
+<!-- ========================= SNAKE ========================= -->
 
 <div align="center">
 
@@ -357,7 +427,7 @@ alt="Contribution Snake"
 
 <br><br>
 
-<!-- ===================== MINDSET ===================== -->
+<!-- ========================= QUOTE ========================= -->
 
 <div align="center">
 
@@ -366,7 +436,7 @@ alt="Contribution Snake"
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=23&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=850&lines=Stay+Silent.+Keep+Grinding.;No+noise.+Just+progress.;Work+in+silence.;Let+the+results+talk."
+src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=24&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&lines=Stay+Silent.+Keep+Grinding.;No+noise.+Just+progress.;Work+in+silence.;Let+the+results+talk."
 alt="Mindset"
 />
 
@@ -374,12 +444,12 @@ alt="Mindset"
 
 <br><br>
 
-<!-- ===================== PROFILE VIEWS ===================== -->
+<!-- ========================= PROFILE VIEWS ========================= -->
 
 <div align="center">
 
 <img
-src="https://komarev.com/ghpvc/?username=SektaneHub&label=PROFILE%20VIEWS&color=9D4EDD&style=for-the-badge"
+src="https://komarev.com/ghpvc/?username=SektaneHub&label=PROFILE+VIEWS&color=9D4EDD&style=for-the-badge"
 alt="Profile Views"
 />
 
@@ -387,16 +457,22 @@ alt="Profile Views"
 
 <br><br>
 
-<!-- ===================== FOOTER ===================== -->
+<!-- ========================= FOOTER ========================= -->
 
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=8A2BE2&animation=twinkling"
+src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=8A2BE2&animation=twinkling"
 width="100%"
 alt="Footer"
 />
 
 </div>
+
+<!-- ========================================================= -->
+
+<!--                    END OF PROFILE                         -->
+
+<!-- ========================================================= -->
 
 
