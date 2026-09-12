@@ -2,19 +2,19 @@
 <tr>
 
 <td>
-  <img src="https://files.catbox.moe/an1iot.png"
+  <img src="https://raw.githubusercontent.com/itsfizys/piccdn/main/anime/10.jpg"
        height="300"
        style="display:block; border-radius:8px; margin:0;">
 </td>
 
 <td>
-  <img src="https://tse1.mm.bing.net/th/id/OIP.rBnQH8Dywk2hVrbqKHOPRAHaIt?r=0&pid=Api&h=220&P=0"
+  <img src="https://raw.githubusercontent.com/itsfizys/piccdn/main/anime/25.jpg"
        height="300"
        style="display:block; border-radius:8px; margin:0;">
 </td>
 
 <td>
-  <img src="https://files.catbox.moe/b04xyt.png"
+  <img src="https://raw.githubusercontent.com/itsfizys/piccdn/main/anime/40.jpg"
        height="300"
        style="display:block; border-radius:8px; margin:0;">
 </td>
@@ -26,17 +26,18 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Doto&size=28&duration=5964&pause=972&color=8B5CF6&center=true&vCenter=true&repeat=false&width=500&height=52&lines=Hello...."
-       alt="Typing SVG" />
-</a>
+<h2>「 SekTaNe 」</h2>
 
-<br>
+<p>
+🌑 Lost in the digital world<br>
+⚡ Turning ideas into code<br>
+🎮 Gaming • Anime • Technology<br>
+🖤 Silent mind. Dark soul. Endless grind.
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Doto&duration=6800&pause=5000&color=7AA2F7&vCenter=true&width=800&lines=Welcome+to+SekTaNe's+world+%E2%98%86"
-       alt="Typing SVG" />
-</a>
+<p>
+<code>Stay Silent. Keep Grinding.</code>
+</p>
 
 </div>
 
@@ -44,10 +45,15 @@
 
 <div align="center">
 
-<p>
-Learning, building, and exploring new things.<br>
-Stay Silent. Keep Grinding. 🖤
-</p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Doto&size=28&duration=5964&pause=972&color=8B5CF6&center=true&vCenter=true&repeat=false&width=500&height=52&lines=Hello+...+I'm+SekTaNe"
+alt="Typing SVG" />
+</a>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Doto&duration=6800&pause=5000&color=6D9EEB&vCenter=true&width=800&lines=Welcome+to+my+dark+digital+world+%E2%98%86"
+alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -60,9 +66,9 @@ Stay Silent. Keep Grinding. 🖤
 <div align="left">
 
 <p>
-🚀 Passionate about coding, gaming, and technology.<br>
-🎮 Anime, games and digital creativity.<br>
-💻 Exploring new projects and learning new things.
+🖤 Passionate about coding, gaming, and technology.<br>
+⚡ Exploring programming, Discord, automation, and creative projects.<br>
+🎨 Anime, dark aesthetics, and digital creativity.
 </p>
 
 </div>
@@ -75,15 +81,15 @@ Stay Silent. Keep Grinding. 🖤
 
 <div align="left">
 
-![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=8B5CF6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=8B5CF6)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=8B5CF6)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3&logoColor=8B5CF6)
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat&logo=c%2B%2B&logoColor=8B5CF6)
-![Git](https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=8B5CF6)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=FFFFFF)
-![Discord](https://img.shields.io/badge/Discord-111111?style=flat&logo=discord&logoColor=8B5CF6)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat&logo=visual-studio-code&logoColor=7AA2F7)
+![Python](https://img.shields.io/badge/python-111111?style=flat&logo=python&logoColor=8B5CF6)
+![JavaScript](https://img.shields.io/badge/javascript-111111?style=flat&logo=javascript&logoColor=8B5CF6)
+![HTML5](https://img.shields.io/badge/html5-111111?style=flat&logo=html5&logoColor=8B5CF6)
+![CSS3](https://img.shields.io/badge/css3-111111?style=flat&logo=css3&logoColor=8B5CF6)
+![C++](https://img.shields.io/badge/c%2B%2B-111111?style=flat&logo=c%2B%2B&logoColor=8B5CF6)
+![Git](https://img.shields.io/badge/git-111111?style=flat&logo=git&logoColor=8B5CF6)
+![GitHub](https://img.shields.io/badge/github-111111?style=flat&logo=github&logoColor=FFFFFF)
+![Discord](https://img.shields.io/badge/discord-111111?style=flat&logo=discord&logoColor=8B5CF6)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat&logo=visual-studio-code&logoColor=6D9EEB)
 
 </div>
 
@@ -95,15 +101,15 @@ Stay Silent. Keep Grinding. 🖤
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SektaneHub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7AA2F7&text_color=C9D1D9"
+<img src="https://github-readme-stats.vercel.app/api?username=SektaneHub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D9EEB&text_color=C9D1D9"
      alt="GitHub Stats">
 
-<br><br>
+<br>
 
-<img src="https://streak-stats.demolab.com/?user=SektaneHub&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7AA2F7&currStreakLabel=8B5CF6"
+<img src="https://streak-stats.demolab.com/?user=SektaneHub&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6D9EEB&currStreakLabel=8B5CF6"
      alt="GitHub Streak">
 
-<br><br>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SektaneHub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&layout=compact"
      alt="Top Languages">
@@ -114,30 +120,39 @@ Stay Silent. Keep Grinding. 🖤
      height="20px"
      width="1000px">
 
-<br><br>
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/itsfizys/piccdn/main/banners/10.jpg"
+     width="1000">
+
+</div>
+
+<br>
 
 <div align="center">
 
 <a href="https://github.com/SektaneHub">
-  <img src="https://img.shields.io/badge/GitHub-SektaneHub-111111?style=for-the-badge&logo=github&logoColor=8B5CF6">
-</a>
-
-<a href="https://youtube.com/">
-  <img src="https://img.shields.io/badge/YouTube-SekTaNe-111111?style=for-the-badge&logo=youtube&logoColor=FF0000">
+<img src="https://img.shields.io/badge/GitHub-SekTaNe-111111?style=for-the-badge&logo=github&logoColor=8B5CF6">
 </a>
 
 <a href="https://discord.com/">
-  <img src="https://img.shields.io/badge/Discord-SekTaNe-111111?style=for-the-badge&logo=discord&logoColor=7289DA">
+<img src="https://img.shields.io/badge/Discord-SekTaNe-111111?style=for-the-badge&logo=discord&logoColor=8B5CF6">
+</a>
+
+<a href="https://youtube.com/">
+<img src="https://img.shields.io/badge/YouTube-SekTaNe-111111?style=for-the-badge&logo=youtube&logoColor=8B5CF6">
 </a>
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
-<img src="https://files.catbox.moe/j6cz4l.png"
-     width="120px">
+<img src="https://raw.githubusercontent.com/itsfizys/piccdn/main/anime/55.jpg"
+     width="800">
 
 </div>
 
