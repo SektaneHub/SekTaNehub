@@ -41,7 +41,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
@@ -101,18 +101,15 @@ alt="Typing SVG" />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SektaneHub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D9EEB&text_color=C9D1D9"
-     alt="GitHub Stats">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SektaneHub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D9EEB&text_color=C9D1D9)](https://github.com/SektaneHub)
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=SektaneHub&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6D9EEB&currStreakLabel=8B5CF6"
-     alt="GitHub Streak">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SektaneHub&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6D9EEB&currStreakLabel=8B5CF6)](https://github.com/SektaneHub)
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SektaneHub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&layout=compact"
-     alt="Top Languages">
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SektaneHub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&layout=compact)](https://github.com/SektaneHub)
 
 </div>
 
